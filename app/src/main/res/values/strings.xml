@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">蓝牙指北针</string>
+    <string name="btn_open">开启蓝牙</string>
+    <string name="btn_close">关闭蓝牙</string>
+    <string name="btn_server">服务端</string>
+    <string name="btn_client">客户端</string>
+    <string name="btn_sensor">传感器</string>
+    <string name="btn_znz">指南针</string>
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/main_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:gravity="center"/>
+    <Button
+        android:id="@+id/main_btn_open"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_open"
+        android:background="#0000"/>
+    <Button
+        android:id="@+id/main_btn_close"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_close"
+        android:background="#0000"/>
+    <Button
+        android:id="@+id/main_btn_server"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_server"
+        android:background="#0000"/>
+    <Button
+        android:id="@+id/main_btn_client"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_client"
+        android:background="#0000"/>
+    <Button
+        android:id="@+id/main_btn_sensor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_sensor"
+        android:background="#0000"/>
+    <Button
+        android:id="@+id/main_btn_znz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_znz"
+        android:background="#0000"/>
+</LinearLayout>
